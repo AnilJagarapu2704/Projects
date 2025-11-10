@@ -1,6 +1,6 @@
 # Data Analytics Case Studies 📊
 
-## 🧠 Netflix Historical Data Analysis (Pandas)
+## 🐼 Netflix Historical Data Analysis (Pandas)
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 - **Goal:** Identify key factors improving Netflix viewership.
 - **Deliverables:** Business insights and recommendations  
