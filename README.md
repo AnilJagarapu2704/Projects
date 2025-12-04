@@ -6,13 +6,13 @@
 - **Deliverables:** Customer profiles, probability analysis, business insights, and strategic recommendations. 
 - **Report:** [View Notebook](https://github.com/AnilJagarapu2704/Projects/blob/main/AeroFit_Business_case_study.ipynb)
 
-## 🔺 Netflix Historical Data Analysis (🐼Pandas)
+## 🔺 Netflix Historical Data Analysis (🐼 Pandas)
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 - **Goal:** Identify key factors improving Netflix viewership.
 - **Deliverables:** Business insights and recommendations  
 - **Report:** [View Notebook](https://github.com/AnilJagarapu2704/Projects/blob/main/Netflix_Business_case_study.ipynb)
 
-## 🧠 Target(Brazil) Retail Sales Analysis (Google Big Query)
+## 🧠 Target(Brazil) Retail Sales Analysis (🛢️ Google Big Query)
 - **Tools Used:** Google Big Query  
 - **Goal:** Analyze sales trends and performance by different categories.  
 - **Deliverables:** Business insights and recommendations  
